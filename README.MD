@@ -59,4 +59,4 @@ As seguintes ferramentas foram ultilizada na construção do projeto:
 
 - [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev/)https://hgbrasil.com/status/weather
-- A api ultilizada, foi foi a versão gratuita da [HG Weather](https://hgbrasil.com/status/weather), que disponibiliza informações atuais e previsões para o clima das cidades brasileiro.
+- A api ultilizada, foi foi a versão gratuita da [HG Weather](https://hgbrasil.com/status/weather), que disponibiliza informações atuais e previsões para o clima das cidades brasileiras.
