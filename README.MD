@@ -58,5 +58,5 @@ Após isso, irá abrir uma janela no seu navegador, aguarde aparecer um qrcode n
 As seguintes ferramentas foram ultilizada na construção do projeto:
 
 - [Expo](https://expo.io/)
-- [React Native](https://reactnative.dev/)https://hgbrasil.com/status/weather
+- [React Native](https://reactnative.dev/)
 - A api ultilizada, foi foi a versão gratuita da [HG Weather](https://hgbrasil.com/status/weather), que disponibiliza informações atuais e previsões para o clima das cidades brasileiras.
