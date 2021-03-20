@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Clima",
+    "slug": "tempo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#97C1FF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.willianmedeiros.clima",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.willianmedeiros.clima",
+      "versionCode": 1
+    }
+  }
+}
