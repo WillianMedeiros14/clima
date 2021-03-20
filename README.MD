@@ -53,7 +53,7 @@ Após isso, irá abrir uma janela no seu navegador, aguarde aparecer um qrcode n
 - Na janela de pesquisar, pode ser pesquisado o clima e previsões de uma cidade especìfica.
 - Caso a sua conexão com a internet seja interrompida, irá aparecer uma tela de aviso, que só desaparecerá quando a conexão for reestabelecida.
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram ultilizada na construção do projeto:
 
